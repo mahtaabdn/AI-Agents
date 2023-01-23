@@ -1,1 +1,2 @@
 # AI-Agents
+The purpose of this project is to create AI agents (cars), which learn to park in a 3D parking lot. The implementation is by Unity’s ML-Agents framework. The agents are implemented by deep neural networks which are trained with Proximal Policy Optimization (PPO) algorithm. The implementation starts with a simpler model in which there is only one agent, and in the end by improving the code, it becomes possible to increase the number of agents.
