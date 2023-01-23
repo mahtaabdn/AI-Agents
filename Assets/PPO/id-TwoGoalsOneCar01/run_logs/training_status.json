@@ -1,0 +1,30 @@
+{
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499969,
+                "file_path": "results\\id-TwoGoalsOneCar01\\CarBehavior\\CarBehavior-499969.onnx",
+                "reward": 1.1226944568611326,
+                "creation_time": 1613416401.1083953
+            },
+            {
+                "steps": 720221,
+                "file_path": "results\\id-TwoGoalsOneCar01\\CarBehavior\\CarBehavior-720221.onnx",
+                "reward": 1.556675021465008,
+                "creation_time": 1613417575.2880442
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 720221,
+            "file_path": "results\\id-TwoGoalsOneCar01\\CarBehavior.onnx",
+            "reward": 1.556675021465008,
+            "creation_time": 1613417575.2880442
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}
