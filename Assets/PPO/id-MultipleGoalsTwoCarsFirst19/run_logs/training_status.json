@@ -1,0 +1,76 @@
+{
+    "SecondCarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499936,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\SecondCarBehavior\\SecondCarBehavior-499936.onnx",
+                "reward": 0.0,
+                "creation_time": 1613823163.5518708
+            },
+            {
+                "steps": 999968,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\SecondCarBehavior\\SecondCarBehavior-999968.onnx",
+                "reward": 0.0,
+                "creation_time": 1613828256.6049848
+            },
+            {
+                "steps": 1499984,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\SecondCarBehavior\\SecondCarBehavior-1499984.onnx",
+                "reward": 0.0,
+                "creation_time": 1613833322.8251927
+            },
+            {
+                "steps": 1533984,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\SecondCarBehavior\\SecondCarBehavior-1533984.onnx",
+                "reward": 0.0,
+                "creation_time": 1613833671.6400428
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1533984,
+            "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\SecondCarBehavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1613833671.6400428
+        }
+    },
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499948,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\CarBehavior\\CarBehavior-499948.onnx",
+                "reward": 1.0894574913713666,
+                "creation_time": 1613823179.8574116
+            },
+            {
+                "steps": 999952,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\CarBehavior\\CarBehavior-999952.onnx",
+                "reward": 1.5645839186275707,
+                "creation_time": 1613828275.9330573
+            },
+            {
+                "steps": 1499980,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\CarBehavior\\CarBehavior-1499980.onnx",
+                "reward": 2.3912752866744995,
+                "creation_time": 1613833365.4837327
+            },
+            {
+                "steps": 1531677,
+                "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\CarBehavior\\CarBehavior-1531677.onnx",
+                "reward": 1.001904983730877,
+                "creation_time": 1613833671.5452964
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1531677,
+            "file_path": "results\\id-MultipleGoalsTwoCarsFirst19\\CarBehavior.onnx",
+            "reward": 1.001904983730877,
+            "creation_time": 1613833671.5452964
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}

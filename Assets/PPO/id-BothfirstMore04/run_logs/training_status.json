@@ -1,0 +1,70 @@
+{
+    "CarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499613,
+                "file_path": "results\\id-BothfirstMore04\\CarBehavior\\CarBehavior-499613.onnx",
+                "reward": 0.9683058871779331,
+                "creation_time": 1614169547.9316287
+            },
+            {
+                "steps": 999950,
+                "file_path": "results\\id-BothfirstMore04\\CarBehavior\\CarBehavior-999950.onnx",
+                "reward": 2.053943044961767,
+                "creation_time": 1614177383.4311619
+            },
+            {
+                "steps": 1499676,
+                "file_path": "results\\id-BothfirstMore04\\CarBehavior\\CarBehavior-1499676.onnx",
+                "reward": 2.055253464551199,
+                "creation_time": 1614185618.6587121
+            },
+            {
+                "steps": 1799038,
+                "file_path": "results\\id-BothfirstMore04\\CarBehavior\\CarBehavior-1799038.onnx",
+                "reward": 2.3139385125216316,
+                "creation_time": 1614190698.2292635
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1799038,
+            "file_path": "results\\id-BothfirstMore04\\CarBehavior.onnx",
+            "reward": 2.3139385125216316,
+            "creation_time": 1614190698.2292635
+        }
+    },
+    "SecondCarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499785,
+                "file_path": "results\\id-BothfirstMore04\\SecondCarBehavior\\SecondCarBehavior-499785.onnx",
+                "reward": -0.9499195627868176,
+                "creation_time": 1614173442.0707169
+            },
+            {
+                "steps": 999705,
+                "file_path": "results\\id-BothfirstMore04\\SecondCarBehavior\\SecondCarBehavior-999705.onnx",
+                "reward": 1.2148141463597615,
+                "creation_time": 1614185625.2274206
+            },
+            {
+                "steps": 1199405,
+                "file_path": "results\\id-BothfirstMore04\\SecondCarBehavior\\SecondCarBehavior-1199405.onnx",
+                "reward": 1.3893332937930494,
+                "creation_time": 1614190698.1574557
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1199405,
+            "file_path": "results\\id-BothfirstMore04\\SecondCarBehavior.onnx",
+            "reward": 1.3893332937930494,
+            "creation_time": 1614190698.1574557
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.1+cpu",
+        "tensorflow_version": -1
+    }
+}
