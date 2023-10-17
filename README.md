@@ -1,6 +1,6 @@
 # AI Parking Agents in 3D Parking Lot
 
-![AI Parking Agents](cover_image.jpg)
+![AI Parking Agents](fig3.png)
 
 ## Abstract
 
@@ -14,13 +14,15 @@ This project addresses the challenge of teaching AI agents how to park in a 3D e
 
 In the first scenario, only one car is placed in the environment. The car is trained to park in an available parking lot. Notably, the car's initial position changes randomly at the start of each episode. Moreover, the number of available parking lots and their positions vary randomly between a specified minimum and maximum in every episode. Consequently, in each episode, the car learns to solve a different problem by encountering a new configuration of the environment.
 
-[Insert Figure 3 - Single-Agent Scenario Image]
+![AI Parking Agents](fig5.png)
+![AI Parking Agents](fig4.png)
 
 ### Scenario 2: Multi-Agent Parking
 
 In the second scenario, two agents are situated in the environment. Both agents are trained to park in a parking environment with more than two free parking lots. Similar to the single-agent scenario, the initial positions of both cars change randomly at the beginning of each episode, and the number of available parking lots and their positions are adjusted in every episode.
 
-[Insert Figure 4 - Multi-Agent Scenario Image]
+![AI Parking Agents](fig6.png)
+![AI Parking Agents](fig2.png)
 
 ## Features
 
